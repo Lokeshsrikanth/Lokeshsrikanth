@@ -90,11 +90,26 @@ const lokesh = {
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lokeshsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&icon_color=7c3aed&text_color=8aaec8&ring_color=00c8f0&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&text_color=8aaec8&langs_count=6" height="150" />
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lokeshsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&icon_color=7c3aed&text_color=8aaec8&ring_color=00c8f0&count_private=true" height="165" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&text_color=8aaec8&langs_count=6" height="165" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Lokeshsrikanth&theme=tokyonight&hide_border=true&background=0d1117&stroke=162d47&ring=00c8f0&fire=f0a424&currStreakLabel=00c8f0&sideLabels=8aaec8&dates=4d7090&sideNums=c4e0f5" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshsrikanth&bg_color=0d1117&color=8aaec8&line=00c8f0&point=7c3aed&area_color=00c8f0&area=true&hide_border=true&custom_title=Contribution%20Graph" width="49%" />
+
 </div>
 
 ---
