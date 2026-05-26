@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8f0,50:7c3aed,100:0eb87a&height=220&section=header&text=Lokesh%20S&fontSize=65&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Web3%20Developer%20%7C%20MERN%20%7C%20Blockchain&descSize=18&descAlignY=60&descColor=c4e0f5&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,35:4facfe,70:7f00ff,100:ff007f&height=220&section=header&text=Lokesh%20S&fontSize=65&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Web3%20Developer%20%7C%20MERN%20%7C%20Blockchain&descSize=18&descAlignY=60&descColor=ffffff&animation=fadeIn" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                       -->
