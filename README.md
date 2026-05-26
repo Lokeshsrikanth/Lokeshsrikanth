@@ -142,13 +142,7 @@ const lokesh: Developer = {
 
 ## 🚀 Projects
 
-### ⛓️ Blockchain & Web3 Platforms
-
-#### [Quantum Wallet](https://github.com/Lokeshsrikanth/Quantum_Wallet)
-![Status](https://img.shields.io/badge/Status-Active_Development-a78bfa?style=flat-square&logo=github&logoColor=white)
-- **Description:** A comprehensive blockchain ecosystem featuring a decentralized cryptocurrency wallet (ETH + Polygon), custom Layer 1 blockchain implementation, testnet faucet, and a high-performance EVM block explorer.
-- **Key Features:** Multi-node RPC Manager with automatic failover, real-time data streaming using Socket.io, atomic block indexing into MongoDB, EIP-1559 gas burning, and validator checkpoint finality.
-- **Stack:** `TypeScript` `Solidity` `Hardhat` `Ethers.js` `React` `Vite` `MongoDB` `Docker`
+### ⭐ Featured Production Projects (Built @ Kairaa Tech Serve Pvt Ltd)
 
 #### [CapitGrow](https://play.google.com/store/apps/details?id=com.app.kaitstaking&hl=en_IN)
 ![Status](https://img.shields.io/badge/Status-Live_Production-0eb87a?style=flat-square&logo=google-play&logoColor=white)
@@ -162,43 +156,50 @@ const lokesh: Developer = {
 - **Key Features:** Real-time block, transaction, and address tracking. Includes live transaction speed and gas price analytics.
 - **Stack:** `MERN Stack` `Web3.js` `Custom EVM` `MongoDB`
 
----
-
-### 💻 Full-Stack & SaaS Platforms
-
-#### [Startup Connectz](https://github.com/Lokeshsrikanth/Startup-Connectz)
-![Status](https://img.shields.io/badge/Status-Live_Production-0eb87a?style=flat-square&logo=github&logoColor=white)
-- **Description:** A digital matchmaking ecosystem connecting startups, investors, mentors, and innovators.
-- **Key Features:** GST integration for startup verification, DPIIT self-certification guidelines tracker, investor matchmaking filters, and direct document sharing vaults.
-- **Stack:** `React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Nodemailer`
-
-#### [RBAC-System](https://github.com/Lokeshsrikanth/RBAC-System)
-![Status](https://img.shields.io/badge/Status-Open_Source-blue?style=flat-square&logo=github&logoColor=white)
-- **Description:** An enterprise-grade Role-Based Access Control (RBAC) authentication and authorization system.
-- **Key Features:** Custom express authentication middleware, stateless JWT sessions, route guards, and granular permission checking (Admin, Manager, User roles).
-- **Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Bcrypt`
-
----
-
-### 📲 Mobile & Frontend applications
-
-#### [storeX-client](https://github.com/Lokeshsrikanth/storeX-client)
-![Status](https://img.shields.io/badge/Status-Open_Source-blue?style=flat-square&logo=github&logoColor=white)
-- **Description:** A premium, modern E-Commerce client application.
-- **Key Features:** Full user shopping experience including product detail pages, sidebar filters, sorting options, shopping cart status context, and checkout views.
-- **Stack:** `React` `React Router` `React Icons` `Axios` `Tailwind CSS`
-
-#### [appscrip-task-lokeshsrikanth](https://github.com/Lokeshsrikanth/appscrip-task-lokeshsrikanth)
-![Status](https://img.shields.io/badge/Status-Open_Source-blue?style=flat-square&logo=github&logoColor=white)
-- **Description:** An optimized, SEO-friendly Next.js Product Discovery catalog.
-- **Key Features:** Server-Side Rendering (SSR) for fast page loading, multi-faceted filtering, JSON-LD schema markup, and responsive grid layouts.
-- **Stack:** `Next.js 15` `React 19` `Tailwind CSS v4` `Lucide React`
+#### [Quantum Wallet](https://github.com/Lokeshsrikanth/Quantum_Wallet)
+![Status](https://img.shields.io/badge/Status-Active_Development-a78bfa?style=flat-square&logo=github&logoColor=white)
+- **Description:** A comprehensive blockchain ecosystem featuring a decentralized cryptocurrency wallet (ETH + Polygon), custom Layer 1 blockchain implementation, testnet faucet, and a high-performance EVM block explorer.
+- **Key Features:** Multi-node RPC Manager with automatic failover, real-time data streaming using Socket.io, atomic block indexing into MongoDB, EIP-1559 gas burning, and validator checkpoint finality.
+- **Stack:** `TypeScript` `Solidity` `Hardhat` `Ethers.js` `React` `Vite` `MongoDB` `Docker`
 
 #### [Picknow](https://play.google.com/store/search?q=picknow&c=apps&hl=en_IN)
 ![Status](https://img.shields.io/badge/Status-Live_Production-0eb87a?style=flat-square&logo=google-play&logoColor=white)
 - **Description:** Full-stack mobile matchmaking platform supporting Web3 wallet connectivity.
 - **Key Features:** JWT sessions, real-time push notifications, role-based dashboards, and on-chain identity integration.
 - **Stack:** `React Native` `MERN Stack` `Web3.js` `JWT`
+
+#### [Varankal Matrimony](https://varankal.com)
+![Status](https://img.shields.io/badge/Status-Live_Production-0eb87a?style=flat-square&logo=vercel&logoColor=white)
+- **Description:** Full-stack matrimony mobile and web matching platform.
+- **Key Features:** Secure JWT and RBAC access, real-time notifications, intelligent compatibility metrics, and load-tested to support 10,000+ concurrent active sessions.
+- **Stack:** `MERN Stack` `React Native` `AWS EC2` `Docker`
+
+#### [ATPL Score](https://play.google.com/store/apps/details?id=com.aattum.tplscore&hl=en_IN)
+![Status](https://img.shields.io/badge/Status-Live_Production-0eb87a?style=flat-square&logo=google-play&logoColor=white)
+- **Description:** Published aviation exam preparation app containing question banks, timed mock examinations, and analytical score trackers.
+- **Stack:** `React Native` `Node.js` `MongoDB` `AWS`
+
+---
+
+### 🛠️ Open-Source Utilities & Project Submissions
+
+#### [Startup Connectz](https://github.com/Lokeshsrikanth/Startup-Connectz)
+![Status](https://img.shields.io/badge/Status-Open_Source-blue?style=flat-square&logo=github&logoColor=white)
+- **Description:** A digital matchmaking ecosystem connecting startups, investors, mentors, and innovators.
+- **Key Features:** GST integration for startup verification, DPIIT self-certification guidelines tracker, investor matchmaking filters, and direct document sharing vaults.
+- **Stack:** `React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Nodemailer`
+
+#### [RBAC-System](https://github.com/Lokeshsrikanth/RBAC-System)
+- **Description:** Role-Based Access Control (RBAC) authentication and route guard API.
+- **Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Bcrypt`
+
+#### [storeX-client](https://github.com/Lokeshsrikanth/storeX-client)
+- **Description:** E-commerce customer client interface with cart contexts.
+- **Stack:** `React` `React Router` `React Icons` `Axios` `Tailwind CSS`
+
+#### [appscrip-task-lokeshsrikanth](https://github.com/Lokeshsrikanth/appscrip-task-lokeshsrikanth)
+- **Description:** Optimized Next.js product catalog discovery listing.
+- **Stack:** `Next.js 15` `React 19` `Tailwind CSS v4` `Lucide React`
 
 ---
 
