@@ -31,23 +31,18 @@
 
 ---
 
-### 🧑‍💻 TL;DR
+### 🧑‍💻 Quick Overview
 
-```typescript
-const lokesh = {
-  role       : "Full Stack Web3 Developer",
-  experience : "1.6 Years @ Kairaa Tech Serve Pvt Ltd",
-  education  : "MCA @ Vellore Institute of Technology",
-  techStack  : {
-    web3     : ["Solidity", "Hardhat", "Ethers.js", "Web3.js", "EIP-1559"],
-    frontend : ["React.js", "Next.js", "React Native", "TypeScript", "Tailwind CSS"],
-    backend  : ["Node.js", "Express.js", "MongoDB", "Socket.io", "Docker", "AWS"]
-  },
-  mission    : "Building highly-optimized, secure smart contracts & responsive dApp frontends"
-};
-```
+- 🔷 **Role**: Full Stack Web3 Developer
+- 💼 **Experience**: 1.6+ Years @ **Kairaa Tech Serve Pvt Ltd**
+- 🎓 **Education**: MCA @ **Vellore Institute of Technology**
+- ⛓️ **Blockchain**: Solidity · Hardhat · Ethers.js · Web3.js · EIP-1559
+- ⚛️ **Frontend**: React.js · Next.js · React Native · TypeScript · Tailwind CSS
+- 🖥️ **Backend & DevOps**: Node.js · Express.js · MongoDB · Socket.io · Docker · AWS
+- 🚀 **Mission**: Building highly-optimized smart contracts & responsive dApp frontends
 
 ---
+
 
 ### 🏆 Key Metrics
 
@@ -97,10 +92,10 @@ const lokesh = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lokeshsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&icon_color=7c3aed&text_color=8aaec8&ring_color=00c8f0&count_private=true" height="165" />
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Lokeshsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&icon_color=7c3aed&text_color=8aaec8&ring_color=00c8f0&count_private=true" height="165" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&text_color=8aaec8&langs_count=6" height="165" />
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Lokeshsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&text_color=8aaec8&langs_count=6" height="165" />
     </td>
   </tr>
 </table>
