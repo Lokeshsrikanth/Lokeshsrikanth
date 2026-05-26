@@ -27,217 +27,84 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lokeshsrikanth&style=for-the-badge&color=00c8f0&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Lokeshsrikanth?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=Followers)
-
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 TL;DR
 
 ```typescript
-const lokesh: Developer = {
-  name        : "Lokesh S",
-  role        : "Full Stack Web3 Developer",
-  company     : "Kairaa Tech Serve Pvt Ltd 📍 Chennai",
-  education   : "MCA @ Vellore Institute of Technology (2023–2025)",
-  experience  : "1.6 Years shipping production-grade Web3 & full-stack applications",
-  contact     : "lokeshsrikanth.2931@gmail.com | +91 63830 35142",
-
-  blockchain  : ["Solidity", "Ethers.js", "Web3.js", "Hardhat", "ERC-20/721/1155", "EIP-1559"],
-  frontend    : ["React.js", "Next.js", "React Native", "TypeScript", "Tailwind CSS", "Redux Toolkit"],
-  backend     : ["Node.js", "Express.js", "MongoDB", "JWT", "RBAC", "WebSockets (Socket.io)"],
-  devops      : ["Docker", "Kubernetes", "AWS (EC2/S3)", "GitHub Actions", "Nginx", "PM2"],
-
-  liveProjects: ["CapitGrow App", "KairaaChain Explorer", "Varankal Matrimony",
-                 "Quantum Wallet", "ATPL Score", "Picknow"],
-
-  funFact     : "I ship blockchain apps by day and study distributed systems by night ⛓️",
-  openTo      : "Remote / Relocation — Full Stack Web3 roles",
+const lokesh = {
+  role       : "Full Stack Web3 Developer",
+  experience : "1.6 Years @ Kairaa Tech Serve Pvt Ltd",
+  education  : "MCA @ Vellore Institute of Technology",
+  techStack  : {
+    web3     : ["Solidity", "Hardhat", "Ethers.js", "Web3.js", "EIP-1559"],
+    frontend : ["React.js", "Next.js", "React Native", "TypeScript", "Tailwind CSS"],
+    backend  : ["Node.js", "Express.js", "MongoDB", "Socket.io", "Docker", "AWS"]
+  },
+  mission    : "Building highly-optimized, secure smart contracts & responsive dApp frontends"
 };
 ```
 
 ---
 
-## 📊 GitHub Analytics
+### 🏆 Key Metrics
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lokeshsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&icon_color=7c3aed&text_color=8aaec8&ring_color=00c8f0&count_private=true" height="180" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&text_color=8aaec8&langs_count=8" height="180" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img width="68%" src="https://streak-stats.demolab.com/?user=Lokeshsrikanth&theme=tokyonight&hide_border=true&background=0d1117&stroke=162d47&ring=00c8f0&fire=f0a424&currStreakLabel=00c8f0&sideLabels=8aaec8&dates=4d7090&sideNums=c4e0f5" />
+| 🚀 experience | 📱 capitgrow | ⚡ DB Performance | 🔄 CI/CD pipeline |
+|:---:|:---:|:---:|:---:|
+| **1.6 Years** | **1,000+ Downloads** (4.3★) | **60% Latency Reduction** | **40 min → < 5 min** |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+### ⭐ Highlight Projects
+
+#### ⛓️ [Quantum Wallet](https://github.com/Lokeshsrikanth/Quantum_Wallet)
+*A decentralized HD multi-chain wallet ecosystem built with a custom Layer 1 blockchain implementation and high-performance block explorer.*
+- **Stack**: `Solidity` `Hardhat` `Ethers.js` `TypeScript` `React` `Vite` `Socket.io` `Docker`
+- **Impact**: Features multi-node RPC failover load balancing and sub-millisecond block queries.
+
+#### 📈 [CapitGrow](https://play.google.com/store/apps/details?id=com.app.kaitstaking&hl=en_IN)
+*Production cryptocurrency staking mobile application with active on-chain staking smart contracts.*
+- **Stack**: `React Native` `Solidity` `Ethers.js` `Web3.js` `AWS`
+- **Impact**: Secure AES-encrypted private keys management with fully gas-optimized staking flows.
+
+#### 💍 [Varankal Matrimony](https://varankal.com)
+*Full-stack matchmaking app performance-engineered to support large scale active environments.*
+- **Stack**: `MERN Stack` `React Native` `Docker` `AWS EC2` `Nginx`
+- **Impact**: Loaded-tested and optimized for **10,000+ concurrent active sessions**.
+
+---
+
+### 💼 Career Snapshot
+
+* **Full Stack Web3 Developer** | *Kairaa Tech Serve Pvt Ltd* `Nov 2024 - Present (1.6 Years)`
+  - Engineered Solidity smart contracts, built the EVM explorer data pipeline, and integrated secure web/mobile wallets.
+  - Set up containerized microservices via Docker and automated deployment runners on AWS using GitHub Actions.
+
+* **MCA (Master of Computer Applications)** | *Vellore Institute of Technology* `2023 - 2025`
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-
-### ⛓️ Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-%238247E5.svg?style=for-the-badge&logo=polygon&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-gray?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-%23FFF100.svg?style=for-the-badge&logo=hardhat&logoColor=black)
-
-### ⚛️ Frontend & Mobile
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### 🖥️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Lokeshsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&icon_color=7c3aed&text_color=8aaec8&ring_color=00c8f0&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8f0&text_color=8aaec8&langs_count=6" height="150" />
 </div>
 
 ---
 
-## 🏆 Key Achievements
-
 <div align="center">
 
-| Metric | Result | Impact |
-|:------:|:------:|:-------|
-| 🚀 Production Experience | **1.6 Years** | Built and shipped production dApps and SaaS systems |
-| 📱 App Downloads — CapitGrow | **1,000+** | Staking application rated 4.3★ on Google Play |
-| ⭐ App Rating | **4.3 ★** | Strong user satisfaction and bug-free releases |
-| ⚡ DB Query Latency Reduced | **~60%** | Query optimizations on collections with 50K+ documents |
-| 🔄 CI/CD Deploy Time | **40 min → < 5 min** | Optimized pipeline caching and runners in GitHub Actions |
-| 👥 Concurrent Users Tested | **10,000+** | Load testing on full-stack application (Varankal Matrimony) |
-| 🔑 Active Wallet Users | **500+** | Successful key management and secure wallet interactions |
-| 📦 Live Products Shipped | **6** | Complete products built and currently live in production |
-
-</div>
-
----
-
-## 🚀 Projects
-
-### ⭐ Featured Production Projects (Built @ Kairaa Tech Serve Pvt Ltd)
-
-#### [CapitGrow](https://play.google.com/store/apps/details?id=com.app.kaitstaking&hl=en_IN)
-![Status](https://img.shields.io/badge/Status-Live_Production-0eb87a?style=flat-square&logo=google-play&logoColor=white)
-- **Description:** Android cryptocurrency staking application with over 1,000+ active downloads.
-- **Key Features:** Secure KAIT coin staking smart contracts, real-time wallet sync, secure AES-encrypted private key storage, voucher generation, and gas-optimized transactions.
-- **Stack:** `React Native` `Solidity` `Web3.js` `Ethers.js` `AWS`
-
-#### [KairaaChain Explorer](https://kairaascan.io)
-![Status](https://img.shields.io/badge/Status-Live_Production-0eb87a?style=flat-square&logo=vercel&logoColor=white)
-- **Description:** Custom EVM-compatible block explorer for the KairaaChain ecosystem.
-- **Key Features:** Real-time block, transaction, and address tracking. Includes live transaction speed and gas price analytics.
-- **Stack:** `MERN Stack` `Web3.js` `Custom EVM` `MongoDB`
-
-#### [Quantum Wallet](https://github.com/Lokeshsrikanth/Quantum_Wallet)
-![Status](https://img.shields.io/badge/Status-Active_Development-a78bfa?style=flat-square&logo=github&logoColor=white)
-- **Description:** A comprehensive blockchain ecosystem featuring a decentralized cryptocurrency wallet (ETH + Polygon), custom Layer 1 blockchain implementation, testnet faucet, and a high-performance EVM block explorer.
-- **Key Features:** Multi-node RPC Manager with automatic failover, real-time data streaming using Socket.io, atomic block indexing into MongoDB, EIP-1559 gas burning, and validator checkpoint finality.
-- **Stack:** `TypeScript` `Solidity` `Hardhat` `Ethers.js` `React` `Vite` `MongoDB` `Docker`
-
-#### [Picknow](https://play.google.com/store/search?q=picknow&c=apps&hl=en_IN)
-![Status](https://img.shields.io/badge/Status-Live_Production-0eb87a?style=flat-square&logo=google-play&logoColor=white)
-- **Description:** Full-stack mobile matchmaking platform supporting Web3 wallet connectivity.
-- **Key Features:** JWT sessions, real-time push notifications, role-based dashboards, and on-chain identity integration.
-- **Stack:** `React Native` `MERN Stack` `Web3.js` `JWT`
-
-#### [Varankal Matrimony](https://varankal.com)
-![Status](https://img.shields.io/badge/Status-Live_Production-0eb87a?style=flat-square&logo=vercel&logoColor=white)
-- **Description:** Full-stack matrimony mobile and web matching platform.
-- **Key Features:** Secure JWT and RBAC access, real-time notifications, intelligent compatibility metrics, and load-tested to support 10,000+ concurrent active sessions.
-- **Stack:** `MERN Stack` `React Native` `AWS EC2` `Docker`
-
-#### [ATPL Score](https://play.google.com/store/apps/details?id=com.aattum.tplscore&hl=en_IN)
-![Status](https://img.shields.io/badge/Status-Live_Production-0eb87a?style=flat-square&logo=google-play&logoColor=white)
-- **Description:** Published aviation exam preparation app containing question banks, timed mock examinations, and analytical score trackers.
-- **Stack:** `React Native` `Node.js` `MongoDB` `AWS`
-
----
-
-### 🛠️ Open-Source Utilities & Project Submissions
-
-#### [Startup Connectz](https://github.com/Lokeshsrikanth/Startup-Connectz)
-![Status](https://img.shields.io/badge/Status-Open_Source-blue?style=flat-square&logo=github&logoColor=white)
-- **Description:** A digital matchmaking ecosystem connecting startups, investors, mentors, and innovators.
-- **Key Features:** GST integration for startup verification, DPIIT self-certification guidelines tracker, investor matchmaking filters, and direct document sharing vaults.
-- **Stack:** `React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Nodemailer`
-
-#### [RBAC-System](https://github.com/Lokeshsrikanth/RBAC-System)
-- **Description:** Role-Based Access Control (RBAC) authentication and route guard API.
-- **Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Bcrypt`
-
-#### [storeX-client](https://github.com/Lokeshsrikanth/storeX-client)
-- **Description:** E-commerce customer client interface with cart contexts.
-- **Stack:** `React` `React Router` `React Icons` `Axios` `Tailwind CSS`
-
-#### [appscrip-task-lokeshsrikanth](https://github.com/Lokeshsrikanth/appscrip-task-lokeshsrikanth)
-- **Description:** Optimized Next.js product catalog discovery listing.
-- **Stack:** `Next.js 15` `React 19` `Tailwind CSS v4` `Lucide React`
-
----
-
-## 💼 Work Experience
-
-### 🔷 Full Stack Web3 Developer
-**Kairaa Tech Serve Pvt Ltd** · *Chennai, India*  
-*Nov 2024 – Present (1.6 Years)*
-
-- **Web3 Ecosystems:** Developed and optimized smart contracts in Solidity for staking and tokenomics in production-grade environments.
-- **Performance Engineering:** Reduced MongoDB query latency by **~60%** across core database collections (50K+ records) through compound indexing and aggregate pipeline refactoring.
-- **Infrastructure & CI/CD:** Orchestrated applications containerization using **Docker**, deploying clusters onto **AWS EC2** behind **Nginx**. Cut deployments from **40 minutes to under 5 minutes** via optimized GitHub Actions caching.
-- **App Development:** Built and shipped the **CapitGrow** app and **KairaaChain Explorer**, introducing real-time transaction streaming and block validation updates.
-
----
-
-## 🎓 Education
-
-- **🎓 MCA — Master of Computer Applications**  
-  *Vellore Institute of Technology* (2023 – 2025) | Pursuing
-- **📚 BCA — Bachelor of Computer Applications**  
-  *Vellore Institute of Technology* (2020 – 2023) | Completed
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/lokeshsrikanth.2931%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshsrikanth.2931@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin%2Fin%2Flokesh--s--6820332b3-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-s-6820332b3)
-
-📍 **Chennai, TN** · Open to Remote / Relocation
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0eb87a,100:00c8f0&height=130&section=footer&animation=fadeIn" />
+📍 **Chennai, India** · Open to Remote / Relocation
 
 *⚡ Building on-chain, one block at a time. Let's ship something together.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0eb87a,100:00c8f0&height=130&section=footer&animation=fadeIn" />
 
 </div>
