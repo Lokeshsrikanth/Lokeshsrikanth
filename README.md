@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,35:4facfe,70:7f00ff,100:ff007f&height=220&section=header&text=Lokesh%20S&fontSize=65&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Web3%20Developer%20%7C%20MERN%20%7C%20Blockchain&descSize=18&descAlignY=60&descColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,35:4facfe,70:7f00ff,100:ff007f&height=220&section=header&text=Lokesh%20S&fontSize=65&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20Native%20%7C%20MERN%20Stack&descSize=18&descAlignY=60&descColor=ffffff&animation=fadeIn" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                       -->
@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=00C8F0&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=⛓️+Blockchain+%7C+Solidity+%7C+Smart+Contracts;⚛️+React.js+%7C+Next.js+%7C+TypeScript;🖥️+Node.js+%7C+Express+%7C+MongoDB;🚀+Shipping+production-grade+Web3+ecosystems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=00C8F0&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=📱+React+Native+%7C+iOS+%26+Android+Apps;⚛️+React.js+%7C+Next.js+%7C+TypeScript;🖥️+Node.js+%7C+Express+%7C+MongoDB+%7C+PostgreSQL;🚀+Shipping+production-grade+mobile+%26+web+apps)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-s-6820332b3)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshsrikanth.2931@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokeshsrikanth)
-[![KairaaChain](https://img.shields.io/badge/KairaaChain_Explorer-%2300c8f0.svg?style=for-the-badge&logo=ethereum&logoColor=white)](https://kairaascan.io)
+[![Play Store](https://img.shields.io/badge/Google_Play-%23414141.svg?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Kairaa+Tech+Serve)
 
 <br/><br/>
 
@@ -33,24 +33,23 @@
 
 ### 🧑‍💻 Quick Overview
 
-- 🔷 **Role**: Full Stack Web3 Developer
+- 🔷 **Role**: Full Stack Developer (React Native & MERN Stack)
 - 💼 **Experience**: 1.6+ Years @ **Kairaa Tech Serve Pvt Ltd**
 - 🎓 **Education**: MCA @ **Vellore Institute of Technology**
-- ⛓️ **Blockchain**: Solidity · Hardhat · Ethers.js · Web3.js · EIP-1559
-- ⚛️ **Frontend**: React.js · Next.js · React Native · TypeScript · Tailwind CSS
-- 🖥️ **Backend & DevOps**: Node.js · Express.js · MongoDB · Socket.io · Docker · AWS
-- 🚀 **Mission**: Building highly-optimized smart contracts & responsive dApp frontends
+- 📱 **Mobile**: React Native · Expo · iOS & Android · Play Store / App Store
+- ⚛️ **Frontend**: React.js · Next.js · TypeScript · Tailwind CSS · Redux Toolkit
+- 🖥️ **Backend & DevOps**: Node.js · Express.js · MongoDB · PostgreSQL · Redis · Socket.io · Docker · AWS
+- 🚀 **Mission**: Building performant, production-grade mobile & web applications
 
 ---
-
 
 ### 🏆 Key Metrics
 
 <div align="center">
 
-| 🚀 experience | 📱 capitgrow | ⚡ DB Performance | 🔄 CI/CD pipeline |
+| 🚀 Experience | 📱 Apps Shipped | ⚡ DB Performance | 🔄 API Latency |
 |:---:|:---:|:---:|:---:|
-| **1.6 Years** | **1,000+ Downloads** (4.3★) | **60% Latency Reduction** | **40 min → < 5 min** |
+| **1.6 Years** | **7+ Production Apps** | **60% Load Reduction** | **40% Faster via Redis** |
 
 </div>
 
@@ -58,28 +57,29 @@
 
 ### ⭐ Highlight Projects
 
-#### ⛓️ [Quantum Wallet](https://github.com/Lokeshsrikanth/Quantum_Wallet)
-*A decentralized HD multi-chain wallet ecosystem built with a custom Layer 1 blockchain implementation and high-performance block explorer.*
-- **Stack**: `Solidity` `Hardhat` `Ethers.js` `TypeScript` `React` `Vite` `Socket.io` `Docker`
-- **Impact**: Features multi-node RPC failover load balancing and sub-millisecond block queries.
-
 #### 📈 [CapitGrow](https://play.google.com/store/apps/details?id=com.app.kaitstaking&hl=en_IN)
-*Production cryptocurrency staking mobile application with active on-chain staking smart contracts.*
-- **Stack**: `React Native` `Solidity` `Ethers.js` `Web3.js` `AWS`
-- **Impact**: Secure AES-encrypted private keys management with fully gas-optimized staking flows.
+*Production cryptocurrency staking mobile application live on Google Play Store.*
+- **Stack**: `React Native` `Solidity` `Ethers.js` `Web3.js` `Node.js` `AWS`
+- **Impact**: 1,500+ downloads · 4.3★ rating · AES-encrypted private key management with fully gas-optimized staking flows.
 
-#### 💍 [Varankal Matrimony](https://varankal.com)
-*Full-stack matchmaking app performance-engineered to support large scale active environments.*
-- **Stack**: `MERN Stack` `React Native` `Docker` `AWS EC2` `Nginx`
-- **Impact**: Loaded-tested and optimized for **10,000+ concurrent active sessions**.
+#### 🛒 [Picknow](https://play.google.com/store/search?q=picknow&c=apps&hl=en_IN)
+*Full-featured e-commerce mobile app built for seamless shopping experiences on Android & iOS.*
+- **Stack**: `React Native` `Node.js` `Express` `MongoDB` `Redux Toolkit` `AWS S3`
+- **Impact**: End-to-end product browsing, cart management, secure checkout, and real-time order tracking shipped to production.
+
+#### 🏏 [ATPL Score](https://play.google.com/store/apps/details?id=com.aattum.tplscore&hl=en_IN)
+*All-in-one sports platform for Cricket, Football & Kabaddi — live scores, analytics, and community.*
+- **Stack**: `React Native` `Node.js` `Socket.io` `MongoDB` `Redis` `AWS EC2`
+- **Impact**: Real-time match tracking with live score updates via WebSocket; 60% DB load reduction through Redis pub/sub caching.
 
 ---
 
 ### 💼 Career Snapshot
 
-* **Full Stack Web3 Developer** | *Kairaa Tech Serve Pvt Ltd* `Nov 2024 - Present (1.6 Years)`
-  - Engineered Solidity smart contracts, built the EVM explorer data pipeline, and integrated secure web/mobile wallets.
-  - Set up containerized microservices via Docker and automated deployment runners on AWS using GitHub Actions.
+* **Full Stack Developer (React Native & MERN Stack)** | *Kairaa Tech Serve Pvt Ltd* `Nov 2024 - Present (1.6 Years)`
+  - Built and shipped 7+ production applications to Google Play Store and App Store.
+  - Reduced API response latency by 40% through Redis caching and optimized backend architecture.
+  - Set up containerized microservices via Docker and automated CI/CD pipelines on AWS using GitHub Actions (40 min → <5 min deploy).
 
 * **MCA (Master of Computer Applications)** | *Vellore Institute of Technology* `2023 - 2025`
 
@@ -113,7 +113,7 @@
 
 📍 **Chennai, India** · Open to Remote / Relocation
 
-*⚡ Building on-chain, one block at a time. Let's ship something together.*
+*⚡ Building fast, shipping to production — one commit at a time. Let's build something great.*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0eb87a,100:00c8f0&height=130&section=footer&animation=fadeIn" />
 
