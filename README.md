@@ -1,195 +1,203 @@
+<!-- ============================================================ -->
+<!--              LOKESH S — GITHUB PROFILE README                -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:0d1b2a,55:1a1a2e,80:16213e,100:0f3460&height=280&section=header&text=LOKESH%20S&fontSize=85&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Engineer%20•%20React%20Native%20%26%20Node.js&descSize=20&descAlignY=62&descColor=64b5f6&animation=fadeIn&fontAlign=50" />
+<!-- HEADER BANNER — using svg-banners which renders reliably -->
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=LOKESH%20S&width=900&height=200" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=64B5F6&center=true&vCenter=true&width=750&height=55&lines=📱+7%2B+Production+Apps+→+Play+Store+%26+App+Store;⚡+40%25+API+Latency+Cut+via+Redis+Caching;🔄+CI%2FCD+Pipelines%3A+Days+→+Minutes+via+GitHub+Actions;🧠+AI-Assisted+Dev%3A+Cursor+IDE+%2B+Claude+AI;☁️+AWS+EC2+%7C+ECS+%7C+Fargate+%7C+Docker+%7C+Nginx)](https://git.io/typing-svg)
+<!-- SUBTITLE ROW -->
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=📱+React+Native+%7C+7%2B+Apps+on+Play+Store+%26+App+Store;⚡+MERN+Stack+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;☁️+AWS+%7C+Docker+%7C+GitHub+Actions+CI%2FCD;🚀+40%25+API+Latency+Cut+%7C+60%25+DB+Load+Reduced" />
+</h3>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lokeshsrikanth&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS)
-&nbsp;
-![Open to Work](https://img.shields.io/badge/💼_Open_To_Work-Bangalore_%7C_Remote-2ea44f?style=for-the-badge)
-&nbsp;
-![Experience](https://img.shields.io/badge/Experience-1.6%2B_Years-7c3aed?style=for-the-badge)
+<!-- BADGES ROW 1 — Status -->
+![Open to Work](https://img.shields.io/badge/%F0%9F%92%BC%20Open%20to%20Work-Bangalore%20%7C%20Remote-brightgreen?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-1.6%2B%20Years-blue?style=for-the-badge)
+![Apps Shipped](https://img.shields.io/badge/Apps%20Shipped-7%2B%20Production-orange?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Lokeshsrikanth&style=for-the-badge&color=58a6ff&label=Profile+Views)
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lokesh%20S-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-s-6820332b3)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-lokeshsrikanth.2931-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshsrikanth.2931@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Lokeshsrikanth-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokeshsrikanth)
-&nbsp;
-[![Phone](https://img.shields.io/badge/Phone-%2B91_6383035142-1e3a5f?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916383035142)
-
-<br/><br/>
+<!-- BADGES ROW 2 — Contact -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lokesh%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-s-6820332b3)
+[![Email](https://img.shields.io/badge/Email-lokeshsrikanth.2931%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshsrikanth.2931@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Lokeshsrikanth-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokeshsrikanth)
+[![Play Store](https://img.shields.io/badge/Play%20Store-7%2B%20Live%20Apps-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Vairaa)
 
 </div>
 
 ---
 
-## 🧑‍💻 Developer Identity
+## 🧑‍💻 About Me
 
 ```typescript
 const lokesh: Developer = {
   name:        "Lokesh S",
   title:       "Full Stack Engineer — React Native & Node.js",
-  location:    "Chennai, Tamil Nadu 📍 | Open to Bangalore / Remote",
-  phone:       "+91 6383035142",
-  email:       "lokeshsrikanth.2931@gmail.com",
+  location:    "Chennai, India 📍",
+  openTo:      ["Bangalore (On-site)", "Remote (India)", "Web3 & AI Product Companies"],
 
-  education: [
-    "MCA — Vellore Institute of Technology (2023–2025)",
-    "BCA — Vellore Institute of Technology (2020–2023)",
-  ],
+  mobile:      ["React Native", "iOS", "Android", "Expo"],
+  frontend:    ["React.js", "Next.js", "TypeScript", "JavaScript ES6+", "Tailwind CSS"],
+  stateManagement: ["Redux Toolkit", "Zustand"],
+  backend:     ["Node.js", "Express.js", "REST APIs", "WebSocket", "Socket.io", "JWT"],
+  databases:   ["PostgreSQL", "MongoDB", "Redis"],
+  cloud:       ["AWS EC2", "S3", "ECS", "ECR", "Fargate", "CloudWatch"],
+  devops:      ["Docker", "GitHub Actions", "Nginx", "CI/CD Pipelines"],
+  tools:       ["Git", "Postman", "Android Studio", "Cursor IDE", "Claude AI", "Linux"],
+  blockchain:  ["Solidity", "Ethers.js", "Web3.js", "Hardhat", "AES Encryption"],
 
-  mobile:     ["React Native", "TypeScript", "Redux Toolkit", "Zustand", "Android Studio"],
-  frontend:   ["React.js", "Next.js", "JavaScript ES6+", "Tailwind CSS"],
-  backend:    ["Node.js", "Express.js", "RESTful APIs", "WebSocket", "Socket.io", "JWT"],
-  databases:  ["PostgreSQL", "MongoDB", "Redis"],
-  devops:     ["AWS (EC2, S3, ECS, ECR, Fargate, CloudWatch)", "Docker", "GitHub Actions", "Nginx"],
-  tools:      ["Git", "Postman", "VS Code", "Linux", "Cursor IDE", "Claude AI"],
-  blockchain: ["Solidity", "Ethers.js", "Web3.js", "Hardhat", "AES Encryption"],
+  education: {
+    mca: "Vellore Institute of Technology  (2023–2025)",
+    bca: "Vellore Institute of Technology  (2020–2023)",
+  },
 
-  superpower: "0 → Production in record time, with AI-assisted dev workflows 🚀",
-  funFact:    "Bio-Maths → MCA → Full Stack. Unconventional paths ship better products.",
+  superpower:  "0 → production in record time, every time 🚀",
 };
 ```
 
 ---
 
-## 🏆 Production Impact Metrics
+## 🏆 Impact Metrics
 
 <div align="center">
 
-| 📱 Apps Shipped | ⚡ API Latency | 🗄️ DB Load | 🔄 CI/CD Speed |
-|:---:|:---:|:---:|:---:|
-| **7+ Production Apps** | **↓ 40% via Redis** | **↓ 60% via Redis Pub/Sub** | **Days → Minutes** |
-| Play Store & App Store | Caching layer across APIs | Real-time score system | GitHub Actions + Docker |
-
-| ⭐ Rating | 📥 Downloads | 🔐 Security | 🏗️ Experience |
-|:---:|:---:|:---:|:---:|
-| **4.3 ★ on Play Store** | **1,500+ Downloads** | **AES-256 Encrypted** | **1.6 Years @ Kairaa** |
-| CapitGrow (Live) | CapitGrow (Live) | Private key storage | Nov 2024 – Present |
+|  | Metric | Detail |
+|:---:|:---|:---|
+| 📱 | **7+ Production Apps** | Shipped to Google Play Store & Apple App Store |
+| ⚡ | **40% API Latency Reduction** | Redis caching layer on high-traffic backend services |
+| 🗄️ | **60% Database Load Cut** | Redis pub/sub architecture in ATPL Sports |
+| 🔄 | **CI/CD: Days → Minutes** | Docker + GitHub Actions automated pipelines |
+| ⭐ | **4.3★ Play Store Rating** | CapitGrow — 1,500+ downloads, live & active |
+| 🔐 | **AES-256 Encryption** | Client-side key management in crypto mobile apps |
+| 🧪 | **Zero-downtime Deploys** | AWS ECS + Fargate containerised microservices |
+| 🤖 | **AI-Assisted Dev** | Cursor IDE + Claude AI for velocity & code quality |
 
 </div>
-
----
-
-## 💼 Experience
-
-### 🏢 Kairaa Tech Serve Pvt Ltd — Chennai, Tamil Nadu
-**Full Stack Developer (Mobile, Web & Backend)** &nbsp;|&nbsp; `Nov 2024 – Present`
-
-```
-React Native · MERN Stack · TypeScript · Redux Toolkit · Socket.io
-PostgreSQL · Redis · MongoDB · AWS (EC2/ECS/Fargate/S3/CloudWatch)
-Docker · GitHub Actions · Nginx · Cursor IDE · Claude AI
-```
-
-- 📱 **Co-architected and deployed 7+ production applications** across cross-platform mobile and web systems using React Native and the MERN stack, driving high-velocity deliverables within fast-paced Agile sprints
-- 🔐 **Integrated advanced data synchronization** for seamless on-chain/off-chain data rendering, secure cryptographic transaction signing, and **AES-256 encrypted local storage** across critical mobile modules
-- ⚡ **Reduced API response latency by 40%** by writing complex relational queries, configuring connection pooling in PostgreSQL, and deploying Redis cache layers
-- 🧩 **Developed modular, reusable UI components** and automated robust unit testing in React Native, minimizing cross-device layout scaling errors and performance bottlenecks on low-end mobile hardware
-- 🤖 **Leveraged AI-assisted workflows** (Cursor IDE, Claude AI) with deep static analysis profiling to resolve security vulnerabilities before production release
-- 🔄 **Automated end-to-end CI/CD pipelines** via GitHub Actions and Docker, slashing infrastructure provisioning timelines from **days to minutes**
 
 ---
 
 ## 📦 Repository Overview
 
-> 💡 **Note for Recruiters:** Production code is in **private repositories** at Kairaa Tech Serve under NDA. Every app below is live and verifiable on the Play Store. Public repo available for direct code review.
+> 💡 **Note for Recruiters:** Production apps are maintained in **private repositories** at Kairaa Tech Serve Pvt Ltd (NDA). The public repo below demonstrates architecture, code quality, and engineering decisions firsthand.
 
 <div align="center">
 
-| Repository | Visibility | Stack | Status | Play Store |
-|:---|:---:|:---|:---:|:---:|
-| [⛓️ Quantum Wallet](https://github.com/Lokeshsrikanth/Quantum_Wallet) | 🔓 **Public** | `TypeScript` `React Native` `Node.js` `Solidity` `AES` | ✅ Active | — |
-| 📈 CapitGrow | 🔒 **Private** | `React Native` `TypeScript` `REST APIs` `AWS` | 🚀 **Live** | [▶ View](https://play.google.com/store/apps/details?id=com.app.kaitstaking&hl=en_IN) |
-| 🛒 Picknow | 🔒 **Private** | `React Native` `MERN` `Redux` `JWT` `AWS S3` | 🚀 **Live** | [▶ View](https://play.google.com/store/search?q=picknow&c=apps&hl=en_IN) |
-| 🏏 ATPL Score | 🔒 **Private** | `MERN` `Socket.io` `Redis` `Docker` | 🚀 **Live** | [▶ View](https://play.google.com/store/apps/details?id=com.aattum.tplscore&hl=en_IN) |
-| 💍 Varankal Matrimony | 🔒 **Private** | `MERN` `React Native` `Nginx` `AWS EC2` | 🚀 **Live** | — |
-| 🔍 Kairaa Chain Explorer | 🔒 **Private** | `React.js` `Node.js` `PostgreSQL` `EVM` | 🚀 **Live** | — |
-| ⚙️ Internal Microservices | 🔒 **Private** | `Docker` `GitHub Actions` `AWS ECS/Fargate` | 🚀 **Live** | — |
+| Repo | Visibility | Tech Stack | Status | Highlight |
+|:---|:---:|:---|:---:|:---|
+| [⛓️ Quantum Wallet](https://github.com/Lokeshsrikanth/Quantum_Wallet) | 🔓 **Public** | `TypeScript` `React Native` `Node.js` `Solidity` | ✅ Open Source | HD multi-chain wallet + custom L1 blockchain + block explorer |
+| 📈 CapitGrow | 🔒 Private | `React Native` `TypeScript` `REST APIs` `AWS` | 🚀 Live | 4.3★, 1,500+ downloads, crypto staking with real-time data charts |
+| 🛒 Picknow | 🔒 Private | `React Native` `MERN` `Redux` `JWT` | 🚀 Live | E-commerce — role-based routing, JWT sessions, native checkout |
+| 🏏 ATPL Sports | 🔒 Private | `MERN` `Socket.io` `Redis` | 🚀 Live | Real-time live scores — 60% DB load cut via Redis pub/sub |
+| 💍 Varankal Matrimony | 🔒 Private | `MERN` `React Native` `Docker` `AWS EC2` `Nginx` | 🚀 Live | Load-tested for 10,000+ concurrent active sessions |
+| 🔍 Kairaa Chain Explorer | 🔒 Private | `React.js` `Node.js` `PostgreSQL` `EVM` | 🚀 Live | EVM block explorer with real-time on-chain data pipeline |
+| ⚙️ Internal Tooling | 🔒 Private | `React Native` `MERN` `Docker` | 🚀 Live | Enterprise microservices & internal apps at Kairaa Tech Serve |
 
 </div>
 
-> 🔐 *Private repos represent production-grade enterprise code. Code walkthroughs available on request during interviews.*
+> 🔐 *All private repos are production-grade code. Happy to walk through architecture, decisions & code during technical interviews.*
 
 ---
 
-## ⭐ Featured Projects (Production — All Live)
+## ⭐ Featured Projects
 
 <details open>
-<summary><b>📈 CapitGrow — Crypto Staking App</b> &nbsp;|&nbsp; <a href="https://play.google.com/store/apps/details?id=com.app.kaitstaking&hl=en_IN">▶ Live on Play Store</a></summary>
-
+<summary>
+  <b>📈 CapitGrow — Crypto Staking Mobile App</b>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.app.kaitstaking&hl=en_IN">
+    <img src="https://img.shields.io/badge/▶_Live_on_Play_Store-4.3★_•_1500%2B_Downloads-3DDC84?style=flat-square&logo=google-play&logoColor=white" />
+  </a>
+</summary>
 <br/>
 
-> *Shipped a 4.3-star rated Android app (1,500+ downloads) featuring real-time balance calculations and interactive data charts.*
+**Production crypto staking app** with on-chain smart contract integration and live on Google Play.
 
 | Field | Detail |
 |---|---|
-| **Stack** | `React Native` `TypeScript` `REST APIs` `Solidity` `Ethers.js` `Node.js` `MongoDB` `AWS` |
-| **Rating** | ⭐ 4.3 / 5.0 on Google Play |
-| **Downloads** | 1,500+ installs |
-| **Key Features** | AES-256 encrypted private key management, real-time balance, staking flow, gas-optimized contracts |
-| **My Role** | Full stack — mobile UI, smart contract integration, backend APIs, AWS deployment |
+| **Stack** | `React Native` `TypeScript` `Solidity` `Ethers.js` `Web3.js` `Node.js` `Express` `MongoDB` `AWS EC2/S3` |
+| **Downloads** | 1,500+ on Google Play Store |
+| **Rating** | ⭐ 4.3 / 5.0 |
+| **Security** | AES-256 client-side encrypted private key management |
+| **Features** | Real-time balance calculations, interactive data charts, gas-optimized staking contracts |
+| **My Role** | Full-stack — mobile UI, smart contract integration, backend REST APIs, AWS deployment |
 
 </details>
 
 <br/>
 
 <details open>
-<summary><b>🛒 Picknow — E-Commerce Platform</b> &nbsp;|&nbsp; <a href="https://play.google.com/store/search?q=picknow&c=apps&hl=en_IN">▶ Live on Play Store</a></summary>
-
+<summary>
+  <b>🛒 Picknow — E-Commerce Platform</b>
+  &nbsp;
+  <a href="https://play.google.com/store/search?q=picknow&c=apps&hl=en_IN">
+    <img src="https://img.shields.io/badge/▶_Live_on_Play_Store-Production-3DDC84?style=flat-square&logo=google-play&logoColor=white" />
+  </a>
+</summary>
 <br/>
 
-> *Production e-commerce app with role-based routing and native session management via JWT in the MERN Stack.*
+**Full-featured production e-commerce app** with secure auth and role-based access on Android & iOS.
 
 | Field | Detail |
 |---|---|
 | **Stack** | `React Native` `MERN Stack` `Redux Toolkit` `JWT` `AWS S3` `Cloudinary` |
-| **Key Features** | Role-based routing, JWT session management, product catalog, cart, order tracking, push notifications |
-| **Performance** | CDN-optimized image loading, lazy-listed products, <200ms API response |
-| **My Role** | Full stack — React Native app, REST API design, DB schema, cloud storage |
+| **Features** | Product catalog, cart, secure checkout, JWT session management, role-based routing |
+| **Performance** | <200ms API response times, lazy-loaded lists, CDN-optimised image delivery |
+| **My Role** | Full-stack — React Native app, REST APIs, MongoDB schema design, cloud storage |
 
 </details>
 
 <br/>
 
 <details open>
-<summary><b>🏏 ATPL Sports — Live Score App</b> &nbsp;|&nbsp; <a href="https://play.google.com/store/apps/details?id=com.aattum.tplscore&hl=en_IN">▶ Live on Play Store</a></summary>
-
+<summary>
+  <b>🏏 ATPL Sports — Live Score App</b>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.aattum.tplscore&hl=en_IN">
+    <img src="https://img.shields.io/badge/▶_Live_on_Play_Store-Cricket%20•%20Football%20•%20Kabaddi-3DDC84?style=flat-square&logo=google-play&logoColor=white" />
+  </a>
+</summary>
 <br/>
 
-> *Architected a real-time score system using a Socket.io event layer and Redis to cut database load by 60%.*
+**All-in-one sports platform** — live match tracking, analytics, and community for Cricket, Football & Kabaddi.
 
 | Field | Detail |
 |---|---|
-| **Stack** | `MERN Stack` `Socket.io` `Redis` `Docker` `AWS EC2` `Nginx` |
-| **Key Impact** | **60% DB load reduction** via Redis pub/sub caching |
-| **Features** | Live scores (Cricket/Football/Kabaddi), player analytics, real-time WebSocket push |
-| **My Role** | Full stack — real-time backend architecture, mobile UI, DevOps |
+| **Stack** | `MERN Stack` `React Native` `Socket.io` `Redis` `AWS EC2` `Docker` |
+| **Performance** | **60% database load reduction** via Redis pub/sub caching + event layer |
+| **Real-time** | Socket.io event layer broadcasts live scores instantly to all connected clients |
+| **Features** | Live scores, player performance analytics, match history, community feed |
+| **My Role** | Full-stack — real-time backend architecture, mobile UI, Redis pipeline, DevOps |
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>⛓️ Quantum Wallet — Open Source</b> &nbsp;|&nbsp; <a href="https://github.com/Lokeshsrikanth/Quantum_Wallet">▶ View on GitHub (Public)</a></summary>
-
+<summary>
+  <b>⛓️ Quantum Wallet & Mobile Node — Open Source</b>
+  &nbsp;
+  <a href="https://github.com/Lokeshsrikanth/Quantum_Wallet">
+    <img src="https://img.shields.io/badge/▶_View_on_GitHub-Public_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</summary>
 <br/>
 
-> *Engineered mobile architecture with cryptographic key management and client-side AES encryption for local storage.*
+**Decentralized HD multi-chain wallet** — mobile architecture with cryptographic keys and AES encryption.
 
 | Field | Detail |
 |---|---|
-| **Stack** | `TypeScript` `React Native` `Node.js` `Solidity` `Hardhat` `Ethers.js` `Docker` |
-| **Key Features** | HD wallet derivation, AES-encrypted storage, multi-node RPC failover, custom block explorer |
-| **Architecture** | Custom L1 blockchain, EVM-compatible contracts, sub-ms block queries |
-| **Visibility** | 🔓 **Public** — open for code review |
+| **Stack** | `TypeScript` `React Native` `Node.js` `Solidity` `Hardhat` `Ethers.js` `React` `Vite` `Socket.io` `Docker` |
+| **Architecture** | HD wallet key derivation, custom Layer 1 blockchain, EVM-compatible smart contracts |
+| **Security** | Client-side AES encryption for local private key storage |
+| **Explorer** | Custom block explorer with multi-node RPC failover & sub-millisecond query performance |
+| **Visibility** | 🔓 **Fully public** — architecture & code available for review |
 
 </details>
 
@@ -201,38 +209,41 @@ Docker · GitHub Actions · Nginx · Cursor IDE · Claude AI
 
 **📱 Mobile Development**
 
-![React Native](https://img.shields.io/badge/React_Native-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593d88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-1a1a2e?style=for-the-badge&logo=react&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 **⚛️ Frontend**
 
-![React.js](https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 
 **🖥️ Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-0f3460?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **🗄️ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **☁️ Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **⛓️ Blockchain**
@@ -240,16 +251,16 @@ Docker · GitHub Actions · Nginx · Cursor IDE · Claude AI
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-fff100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 
-**🧰 Developer Tools**
+**🛠️ Developer Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-1a1a2e?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-d97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -259,70 +270,78 @@ Docker · GitHub Actions · Nginx · Cursor IDE · Claude AI
 
 <div align="center">
 
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Lokeshsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=7c3aed&text_color=8aaec8&ring_color=64b5f6&count_private=true&include_all_commits=true&custom_title=GitHub+Stats+(incl.+private+commits)" height="175" />
-&nbsp;
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Lokeshsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=8aaec8&langs_count=8&count_private=true" height="175" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lokeshsrikanth&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true&custom_title=Stats+%28includes+private+commits%29" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshsrikanth&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&count_private=true" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Lokeshsrikanth&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1a2e&ring=64b5f6&fire=f0a424&currStreakLabel=64b5f6&sideLabels=8aaec8&dates=4d7090&sideNums=c4e0f5" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshsrikanth&bg_color=0d1117&color=8aaec8&line=64b5f6&point=7c3aed&area_color=64b5f6&area=true&hide_border=true&custom_title=Contribution+Activity" width="49%" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Lokeshsrikanth&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0a424&currStreakLabel=58a6ff&sideLabels=8b949e&dates=4d7090&sideNums=c9d1d9" />
 
 <br/><br/>
 
-> ⚠️ **Recruiter Note:** Stats reflect **public repo activity only**. All 7+ production apps and daily contributions live in **private repositories at Kairaa Tech Serve** (NDA). The activity graph understates actual engineering output significantly.
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshsrikanth&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution+Activity+Graph" />
+
+<br/>
+
+> ⚠️ **Recruiter Note:** Charts above reflect **public repo activity only**. The bulk of contributions live in **private repos** at Kairaa Tech Serve — 7+ production apps, CI/CD pipelines, microservices — all under NDA. Ask me anything about the architecture in an interview.
 
 </div>
 
 ---
 
-## 🎓 Education
+## 💼 Experience
 
-| Degree | Institution | Period |
-|:---|:---|:---:|
-| **Master of Computer Applications (MCA)** | Vellore Institute of Technology, Tamil Nadu | `2023 – 2025` |
-| **Bachelor of Computer Applications (BCA)** | Vellore Institute of Technology, Tamil Nadu | `2020 – 2023` |
+### 🏢 Full Stack Developer — React Native & Node.js
+**Kairaa Tech Serve Pvt Ltd** · Chennai, Tamil Nadu &nbsp;|&nbsp; `Nov 2024 – Present (1.6 Years)`
+
+- 📱 **Architected and deployed 7+ production apps** across mobile (React Native) and web (MERN) within fast Agile sprints
+- ⚡ **Cut API latency by 40%** — implemented Redis caching layers across high-traffic backend services
+- 🗄️ **Reduced DB load by 60%** — engineered Redis pub/sub messaging pipeline for ATPL Sports real-time architecture
+- 🔐 **Secured crypto apps** — integrated AES-256 encrypted local storage, cryptographic transaction signing, on-chain/off-chain data sync
+- 🧩 **Built reusable component libraries** in React Native with automated unit tests, eliminating cross-device scaling bugs
+- 🔄 **Automated CI/CD pipelines** with GitHub Actions + Docker — infrastructure provisioning slashed from days to minutes
+- ☁️ **Managed production infrastructure** on AWS (EC2, S3, ECS, ECR, Fargate, CloudWatch)
+- 🤖 **Accelerated dev velocity** using AI-assisted workflows (Cursor IDE, Claude AI) with static security analysis pre-release
 
 ---
 
-## 🤝 Let's Connect — I'm Actively Looking
+## 🎓 Education
+
+| Degree | Institution | Year |
+|:---|:---|:---:|
+| **Master of Computer Applications (MCA)** | Vellore Institute of Technology | 2023 – 2025 |
+| **Bachelor of Computer Applications (BCA)** | Vellore Institute of Technology | 2020 – 2023 |
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-**Targeting roles in:**
+**I'm actively seeking roles in:**
 
-![Bangalore Startups](https://img.shields.io/badge/📍_Bangalore-Product_Startups-0A66C2?style=for-the-badge)
-&nbsp;
-![Remote](https://img.shields.io/badge/🌐_Remote-India_Based_Roles-2ea44f?style=for-the-badge)
-&nbsp;
+![Bangalore](https://img.shields.io/badge/📍_Bangalore-Startups_&_Scale%E2%80%91ups-0A66C2?style=for-the-badge)
+![Remote](https://img.shields.io/badge/🌐_Remote-India_Based-2ea44f?style=for-the-badge)
 ![Web3 & AI](https://img.shields.io/badge/⚡_Web3_%26_AI-Product_Companies-7c3aed?style=for-the-badge)
 
-<br/><br/>
+<br/>
 
-**Roles I'm targeting:**
+**Open for:** Full Stack · React Native · MERN Stack · Mobile Engineering roles
 
-![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-open-64b5f6?style=flat-square)
-&nbsp;
-![React Native](https://img.shields.io/badge/React_Native_Developer-open-64b5f6?style=flat-square)
-&nbsp;
-![MERN](https://img.shields.io/badge/MERN_Stack_Developer-open-64b5f6?style=flat-square)
-&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js_Backend_Developer-open-64b5f6?style=flat-square)
+<br/>
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-lokeshsrikanth.2931@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshsrikanth.2931@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💬_LinkedIn-Let's_Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-s-6820332b3)
+[![Phone](https://img.shields.io/badge/📞_Call-+91_6383035142-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916383035142)
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/📧_Email-lokeshsrikanth.2931@gmail.com-EA4335?style=for-the-badge)](mailto:lokeshsrikanth.2931@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💬_LinkedIn_DM-Let's_Talk-0A66C2?style=for-the-badge)](https://linkedin.com/in/lokesh-s-6820332b3)
-&nbsp;
-[![Phone](https://img.shields.io/badge/📞_Call-+91_6383035142-2ea44f?style=for-the-badge)](tel:+916383035142)
-
-<br/><br/>
+---
 
 *"Code that ships to production is the only code that matters."*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,70:1a1a2e,100:0a0a0f&height=160&section=footer&animation=fadeIn&text=Open%20to%20Work%20•%20Chennai%2C%20India%20•%20%2B91%206383035142&fontSize=16&fontColor=64b5f6&fontAlignY=65" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer&text=Chennai%2C%20India%20•%20Open%20to%20Work&fontSize=16&fontColor=58a6ff&fontAlignY=65&animation=fadeIn)
 
 </div>
